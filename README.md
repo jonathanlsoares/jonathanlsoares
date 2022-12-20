@@ -1,6 +1,6 @@
 
 
-## I'm Jonathan Soares, Data Science Padawan!
+## I'm Jonathan Soares!
 <div align="center">
   <a href="https://github.com/jonathanlsoares">
   <img height="145em" src="https://github-readme-stats.vercel.app/api?username=jonathanlsoares&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
